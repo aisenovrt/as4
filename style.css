@@ -1,0 +1,13 @@
+.carousel-item{
+    height:600px;
+
+}
+.carousel-item img{
+    height:600px;
+}
+#block{
+    width:50px;
+    height:45px;
+    background-color: #8f93e6;
+    border-radius: 10px;
+}
